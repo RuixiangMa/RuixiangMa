@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I’m currently a software engineer at Alibaba Cloud based in Hangzhou. I am working on the design and development of userspace storage systems.
+- 🔭 I’m currently a software engineer at Alibaba Cloud
+- 🌱 I’m currently learning Rust, Go
 
-I received the Ph.D. degree with the Huazhong University of Science and Technology (HUST), Wuhan,in 2021. I am interested in distribute database and distribute storage system.
 
 ![Lancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuixiangMa&show_icons=true&theme=radical)
 
