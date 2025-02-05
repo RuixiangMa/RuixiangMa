@@ -2,14 +2,13 @@
 
 ![](profile-3d-contrib/profile-green-animate.svg)
 
-- 🔭 I’m currently a software engineer at Alibaba Cloud
-- 🌱 I’m currently learning Rust, Go
+- 🔭 I’m interested in LLM, Storage, Database, OS and Mathematics
+- 🌱 I’m currently learning Rust, Go, CUDA
 
-
+<!--
 ![Lancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuixiangMa&show_icons=true&theme=radical)
 
 
-<!--
 **RuixiangMa/RuixiangMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
