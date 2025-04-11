@@ -3,7 +3,7 @@
 ![](profile-3d-contrib/profile-green-animate.svg)
 
 - 🔭 I’m interested in LLM, Storage, Database, OS and Mathematics
-- 🌱 I’m currently learning Rust, Go, CUDA
+- 🌱 I’m currently working on LLM inference optimization at an AI startup
 
 <!--
 ![Lancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuixiangMa&show_icons=true&theme=radical)
